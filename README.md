@@ -1,3 +1,3 @@
-# going through tutorials
+# Going through tutorials
 
-there is some text.
+there is some text!
